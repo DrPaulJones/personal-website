@@ -1,0 +1,62 @@
+---
+title: "Dr. Paul M. Jones"
+image: "PaulJones2.JPG"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I study the application of data to real-world problems. My research focuses on applying time-series models to various areas of economics and finance. My interests have also led me to branch out into other areas including causual inference, machine learning, and deep learning. My research papers have been published in some of the leading academic journals in applied time-series econometrics.   
+
+## Education
+
+**The University of Alabama** | Tuscaloosa, AL
+
+Ph.D., Economics | 2009 - 2014
+
+**The University of Alabama** | Tuscaloosa, AL
+
+M.B.A., Financial Risk | 2007 - 2009
+
+**The University of Alabama** | Tuscaloosa, AL
+
+B.S., Civil Engineering | 2003 - 2007
+
+## Experience
+
+**Pepperdine University** | Assistant Professor | 2014 - 2021
+
+**University of California at Los Angeles (UCLA)** | Visiting Assistant Professor | September 2016 - December 2016
+
+## Publications
+
+On the Use of the Flexible Fourier Form in Unit Root Tests, Endogenous Breaks, and Parameter Instability. *Recent Advances in Estimating Nonlinear Models* (Springer) 2013.
+
+The Time-Varying Correlation Between Uncertainty, Output, and Inflation: Evidence from a DCC-GARCH model. *Economics Letters*. 118, 2013, p. 33-37.
+
+Tax Multipliers and Monetary Policy: Evidence from a Threshold Model. *Economics Letters*. 122, 2014, p. 116-118.
+
+Asymmetric Tax Multipliers. *Journal of Macroeconomics*. 43, 2015, p. 38-48.
+
+The International Effects of U.S. Uncertainty. *International Journal of Finance and Economics*. 20, 2015, p. 242-252.
+
+The Asymmetric Effects of Uncertainty on Macroeconomic Activity. *Macroeconomic Dynamics*. 20(5), July 2016, p. 1219-1246.
+
+Grain Prices, Oil Prices, and Multiple Smooth Breaks in a VAR. *Studies in Nonlinear Dynamics and Econometrics*. 20, September 2016, p. 399-419.
+
+A Reexamination of Real Stock Returns, Real Interest Rates, Real Activity, and Inflation: Evidence from a Large Dataset. *The Financial Review*. 52, issue 3, 2017, p. 405-433.
+
+Time-varying Correlations and Sharpe Ratios during Quantitative Easing. *Studies in Nonlinear Dynamics and Econometrics*. 22 (1), 2018.
+
+A Change in the Time-varying Correlation between Oil Prices and the Stock Market. *Applied Economics Letters*. 26 (7), 2019, p. 537-542.
+
