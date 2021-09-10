@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-the application of data to real-world problems. My research focuses on applying time-series models to various areas of economics and finance. My interests have also led me to branch out into other areas including causual inference, machine learning, and deep learning. My research papers have been published in some of the leading academic journals in applied time-series econometrics.   
+I study the application of data to real-world problems. My research focuses on applying time-series models to various areas of economics and finance. My interests have also led me to branch out into other areas including causual inference, machine learning, and deep learning. My research papers have been published in some of the leading academic journals in applied time-series econometrics.   
 
 ## Education
 
