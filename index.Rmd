@@ -4,12 +4,12 @@ image: "PaulJones2.JPG"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=K9g43nIAAAAJ&hl=en/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:drpaulmjones@gmail.com"
 output:
   postcards::trestles
 ---
