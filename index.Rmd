@@ -3,7 +3,7 @@ title: "Dr. Paul M. Jones"
 image: "PaulJones2.JPG"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/paul-jones-a02a5316b/"
+    url: "https://www.linkedin.com/in/dr-paul-m-jones/"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=K9g43nIAAAAJ&hl=en/"
   - label: GitHub
