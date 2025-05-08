@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/dr-paul-m-jones/"
   - label: Google Scholar
-    url: "https://scholar.google.com/citations?user=K9g43nIAAAAJ&hl=en/"
+    url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=8kGnkc8AAAAJ/"
   - label: GitHub
     url: "https://github.com/DrPaulJones/"
   - label: Email
@@ -33,6 +33,8 @@ M.B.A., Financial Risk | 2007 - 2009
 B.S., Civil Engineering | 2003 - 2007
 
 ## Experience
+
+**Fannie Mae** | Lead Quantitative Modeler | Data Science | 2022 - Present
 
 **Pepperdine University** | Assistant Professor | 2014 - 2021
 
