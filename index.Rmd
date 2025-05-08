@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/dr-paul-m-jones/"
   - label: Google Scholar
-    url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=8kGnkc8AAAAJ/"
+    url: "https://scholar.google.com/citations?user=8kGnkc8AAAAJ&hl=en/"
   - label: GitHub
     url: "https://github.com/DrPaulJones/"
   - label: Email
